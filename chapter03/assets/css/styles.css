@@ -35,6 +35,11 @@ body {
 }
 
 h1 {
+  font-family: "League Spartan", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  
   color: black;
   font-size: 3rem;
   text-align: center;
