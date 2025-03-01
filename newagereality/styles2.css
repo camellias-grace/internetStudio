@@ -15,3 +15,15 @@
     /* border: 1px solid black; */
     /* turn borders off and on to see the borders of the display area */
   }
+
+  h2 {
+    /* font-family: Helvetica, Arial, sans-serif; */
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    color: rgb(200, 200, 200);
+    font-size: 2.0rem;
+    text-align: right;
+    margin-top: -2.5rem;
+  }
