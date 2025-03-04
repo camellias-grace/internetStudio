@@ -39,3 +39,10 @@
     text-align: left;
     margin-top: -2.5rem;
   }
+
+  .circleImg {
+    background-image: url(../img/circle.png);
+    width: 400px;
+    height: 400px;
+    margin: 64px auto;
+  }
