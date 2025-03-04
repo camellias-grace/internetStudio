@@ -3,6 +3,14 @@
     margin: 0px;
   }
 
+  .circleImg {
+    background-image: url(../img/circle.png);
+    width: 200px;
+    height: 200px;
+    margin: 64px auto;
+  }
+
+ 
   body {
     background-color:rgb(57, 57, 57);
     font-family: Helvetica, Arial, sans-serif;
@@ -40,9 +48,9 @@
     margin-top: -2.5rem;
   }
 
-  .circleImg {
+ /* .circleImg {
     background-image: url(../img/circle.png);
     width: 200px;
     height: 200px;
     margin: 64px auto;
-  }
+  } */
