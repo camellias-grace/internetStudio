@@ -42,7 +42,7 @@
 
   .circleImg {
     background-image: url(../img/circle.png);
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     margin: 64px auto;
   }
