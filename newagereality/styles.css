@@ -45,16 +45,11 @@
   }
 
   a {
-    /* font-family: "Futura Press", Helvetica, Arial, sans-serif; */
-    font-family: "Workbench", serif;
-   font-optical-sizing: auto;
-   font-weight: 450;
-   font-style: normal;
-   font-variation-settings:
-     "BLED" 0,
-     "SCAN" 0;
- 
-     color: rgb(240, 240, 240);
-     font-size: 1.0rem;
-     text-align: left; 
+    color: rgb(240, 240, 240);
    }
+
+.txt{
+  position:absolute;
+  top:250px;
+  left:250px;
+}
