@@ -28,7 +28,7 @@
 
   .eyesdownbwImg {
     background-image: url("images/eyesdownbw.png");
-    width: 450px;
+    width: 425px;
     height: 237px;
     margin: 64px auto;
     position: absolute;
@@ -61,7 +61,7 @@
       
       position: absolute;
     top:275px;
-    left:600px
+    left:550px
     
   }
 
@@ -81,7 +81,7 @@
     
      position: absolute;
     top:300px;
-    left:600px
+    left:550px
   }
 
  .txt5-1{
@@ -158,7 +158,7 @@
     text-align: left;
     position: absolute;
     top:250px;
-    left:400px
+    left:545px
 
 
 
