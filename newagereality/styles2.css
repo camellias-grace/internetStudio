@@ -35,28 +35,36 @@
     /* turn borders off and on to see the borders of the display area */
   }
 
-  h2 {
+  .txt4-1 {
     /* font-family: Helvetica, Arial, sans-serif; */
-    font-family: "Jersey 10", sans-serif;
-    font-weight: 400;
+    font-family: "Workbench", serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
     font-style: normal;
-
-    color: rgb(200, 200, 200);
-    font-size: 2.0rem;
-    text-align: left;
-    margin-top: -2.5rem;
+    font-variation-settings:
+      "BLED" 0,
+      "SCAN" 0;
+  
+      color: rgb(240, 240, 240);
+      font-size: 1.0rem;
+      text-align: left;
+    
   }
 
-  h3 {
+  .txt4-2 {
     /* font-family: Helvetica, Arial, sans-serif; */
-    font-family: "Jersey 10", sans-serif;
-    font-weight: 400;
+    font-family: "Workbench", serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
     font-style: normal;
-
-    color: rgb(200, 200, 200);
-    font-size: 2.0rem;
-    text-align: left;
-    margin-top: -2.5rem;
+    font-variation-settings:
+      "BLED" 0,
+      "SCAN" 0;
+  
+      color: rgb(240, 240, 240);
+      font-size: 1.0rem;
+      text-align: left;
+    
   }
 
  /* .circleImg {
