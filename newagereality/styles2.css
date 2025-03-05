@@ -29,11 +29,11 @@
   .eyesdownbwImg {
     background-image: url("images/eyesdownbw.png");
     width: 474px;
-    height: 237px;
+    height: 220px;
     margin: 64px auto;
     position: absolute;
     top:100px;
-    left:500px
+    left:350px
   }
 
 
