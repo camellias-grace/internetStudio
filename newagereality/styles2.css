@@ -26,6 +26,16 @@
     left:500px
   }
 
+  .eyesdownbwImg {
+    background-image: url("images/eyesdownbw.png");
+    width: 474px;
+    height: 237px;
+    margin: 64px auto;
+    position: absolute;
+    top:100px;
+    left:500px
+  }
+
 
   .text {
     display: block;
@@ -160,12 +170,4 @@
    
   }
 
-  .eyesdownbwImg {
-    background-image: url("images/eyesdownbw.png");
-    width: 474px;
-    height: 237px;
-    margin: 64px auto;
-    position: absolute;
-    top:100px;
-    left:500px
-  }
+  
