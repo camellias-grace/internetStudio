@@ -171,8 +171,31 @@
     left:540px
 
 
+    
 
  }
+
+ .txt6{
+  font-family: "Workbench", serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+
+    color: rgb(240, 240, 240);
+    font-size: 1.5rem;
+    text-align: left;
+    position: absolute;
+    top:650px;
+    left:400px
+
+
+    
+
+ }
+
   a
   {
     /* font-family: Helvetica, Arial, sans-serif; */
