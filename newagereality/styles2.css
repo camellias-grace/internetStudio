@@ -36,15 +36,15 @@
     left:350px
   }
 
-  /*.eyesbwImg {
-    background-image: url("images/eyesbw.png");
-    width: 1500px;
-    height: 1000px;
+  .eyesbwImg {
+    background-image: url("images/openeyesbw.png");
+    width: 500px;
+    height: 250px;
     margin: 64px auto;
     position: absolute;
     top:25px;
     left:350px
-  }*/
+  }
 
 
   .text {
