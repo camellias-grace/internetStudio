@@ -36,6 +36,16 @@
     left:350px
   }
 
+  .eyesbw {
+    background-image: url("images/eyesbw.png");
+    width: 445px;
+    height: 237px;
+    margin: 64px auto;
+    position: absolute;
+    top:25px;
+    left:350px
+  }
+
 
   .text {
     display: block;
