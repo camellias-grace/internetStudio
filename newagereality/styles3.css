@@ -19,7 +19,7 @@
     "ELGR" 1,
     "ELSH" 2;
 
-    color: rgb(90, 90, 90);
+    color: rgb(175, 175, 175);
     font-size: 2.5rem;
     text-align: center;
     
@@ -37,7 +37,7 @@
     "ELGR" 1,
     "ELSH" 2;
 
-    color: rgb(90, 90, 90);
+    color: rgb(175, 175, 175);
     font-size: 2.5rem;
     text-align: center;
     
@@ -52,6 +52,6 @@
 a
   {
     /* font-family: Helvetica, Arial, sans-serif; */
-     color: rgb(90, 90, 90);
+     color: rgb(175, 175, 175);
    
   }
