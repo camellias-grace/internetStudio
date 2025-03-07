@@ -18,11 +18,11 @@
 
   .mirrorImg {
     background-image: url("images/mirror.png");
-    width: 385px;
-    height: 485px;
+    width: 380px;
+    height: 480px;
     margin: 64px auto;
     position: absolute;
-    top:50px;
+    top:20px;
     left:425px
   }
 
