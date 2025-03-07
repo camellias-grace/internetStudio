@@ -114,7 +114,7 @@
     "SCAN" 0;
 
     color: rgb(245, 245, 245);
-    font-size: 1.25rem;
+    font-size: 2.0rem;
     text-align: left; 
 
   position:absolute;
@@ -132,7 +132,7 @@
     "SCAN" 0;
 
     color: rgb(245, 245, 245);
-    font-size: 1.25rem;
+    font-size: 2.0rem;
     text-align: left; 
 
   position:absolute;
@@ -150,12 +150,12 @@
     "SCAN" 0;
 
     color: rgb(245, 245, 245);
-    font-size: 1.25rem;
+    font-size: 2.0rem;
     text-align: left; 
 
   position:absolute;
   top:400px;
-  left:650px;
+  left: 950px;
 }
 
 .txt9-4{
@@ -168,10 +168,10 @@
     "SCAN" 0;
 
     color: rgb(245, 245, 245);
-    font-size: 1.25rem;
+    font-size: 2.0rem;
     text-align: left; 
 
   position:absolute;
   top:25px;
-  left:800px;
+  left:1100px;
 }
