@@ -16,6 +16,15 @@
     /* turn borders off and on to see the borders of the display area */
   }
 
+  .mirrorImg {
+    background-image: url("images/mirror.png");
+    width: 400px;
+    height: 503px;
+    margin: 64px auto;
+    position: absolute;
+    top:100px;
+    left:400px
+  }
 
  
 
