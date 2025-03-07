@@ -103,3 +103,75 @@
   top:550px;
   left:1150px;
 }
+
+.txt9-1{
+  font-family: "Workbench", serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+
+    color: rgb(245, 245, 245);
+    font-size: 1.25rem;
+    text-align: left; 
+
+  position:absolute;
+  top:25px;
+  left:25px;
+}
+
+.txt9-2{
+  font-family: "Workbench", serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+
+    color: rgb(245, 245, 245);
+    font-size: 1.25rem;
+    text-align: left; 
+
+  position:absolute;
+  top:400px;
+  left:100px;
+}
+
+.txt9-3{
+  font-family: "Workbench", serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+
+    color: rgb(245, 245, 245);
+    font-size: 1.25rem;
+    text-align: left; 
+
+  position:absolute;
+  top:400px;
+  left:650px;
+}
+
+.txt9-4{
+  font-family: "Workbench", serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+
+    color: rgb(245, 245, 245);
+    font-size: 1.25rem;
+    text-align: left; 
+
+  position:absolute;
+  top:25px;
+  left:800px;
+}
