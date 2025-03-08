@@ -22,7 +22,7 @@
     margin: 64px auto;
     position: absolute;
     top:25px;
-    left:350px
+    left:400px
   }
 
   .eyesbwImg {
@@ -32,7 +32,7 @@
     margin: 64px auto;
     position: absolute;
     top:25px;
-    left:350px
+    left:400px
   }
 
   .txt15-1{
@@ -139,7 +139,7 @@
       text-align: center;
       
       position: absolute;
-      top:50px;
+      top:10px;
       left:400px;
   }
 
