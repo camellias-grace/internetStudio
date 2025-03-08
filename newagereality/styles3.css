@@ -46,7 +46,41 @@
     left:800px;
 }
 
+.txt11-1{
+  font-family: "Handjet", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "ELGR" 1,
+    "ELSH" 2;
 
+    color: rgb(175, 175, 175);
+    font-size: 2.5rem;
+    text-align: center;
+    
+    position: absolute;
+    top:10px;
+    left:400px;
+}
+
+.txt11-2{
+  font-family: "Handjet", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "ELGR" 1,
+    "ELSH" 2;
+
+    color: rgb(175, 175, 175);
+    font-size: 2.5rem;
+    text-align: center;
+    
+    position: absolute;
+    top:550px;
+    left:400px;
+}
 
 
 a
