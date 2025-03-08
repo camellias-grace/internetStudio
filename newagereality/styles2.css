@@ -246,13 +246,46 @@
     "SCAN" 0;
 
     color: rgb(210, 210, 210);
-    font-size: 1.0rem;
+    font-size: 1.5rem;
     text-align: left;
     position: absolute;
-    top:20px;
-    left:1000px
+    top:530px;
+    left:10px
  }
 
+ .txt14-2{
+  font-family: "Workbench", serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+
+    color: rgb(210, 210, 210);
+    font-size: 1.5rem;
+    text-align: left;
+    position: absolute;
+    top:300px;
+    left:550px
+ }
+
+ .txt14-3{
+  font-family: "Workbench", serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+
+    color: rgb(210, 210, 210);
+    font-size: 1.5rem;
+    text-align: left;
+    position: absolute;
+    top:10px;
+    left:1100px
+ }
 
   a
   {
