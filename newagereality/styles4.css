@@ -15,6 +15,17 @@
    
   }
 
+  .eyesdownbwImg {
+    background-image: url("images/eyesdownbw.png");
+    width: 445px;
+    height: 237px;
+    margin: 64px auto;
+    position: absolute;
+    top:25px;
+    left:350px
+  }
+
+
   .txt15-1{
     font-family: "Handjet", sans-serif;
     font-optical-sizing: auto;
