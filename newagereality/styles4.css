@@ -25,16 +25,15 @@
     left:350px
   }
 
-  .eyesdownbwImg {
-    background-image: url("images/eyesdownbw.png");
-    width: 445px;
-    height: 237px;
+  .eyesbwImg {
+    background-image: url("images/openeyesbw.png");
+    width: 480px;
+    height: 250px;
     margin: 64px auto;
     position: absolute;
     top:25px;
     left:350px
   }
-
 
   .txt15-1{
     font-family: "Handjet", sans-serif;
