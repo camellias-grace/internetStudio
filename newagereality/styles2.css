@@ -234,12 +234,25 @@
     position: absolute;
     top:20px;
     left:1000px
-
-    
-
-    
-
  }
+
+ .txt14-1{
+  font-family: "Workbench", serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+
+    color: rgb(210, 210, 210);
+    font-size: 1.0rem;
+    text-align: left;
+    position: absolute;
+    top:20px;
+    left:1000px
+ }
+
 
   a
   {
