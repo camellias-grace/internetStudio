@@ -8,6 +8,26 @@
     font-family: Helvetica, Arial, sans-serif;
   }
 
+  .halfmirrorImg {
+    background-image: url("images/mirror.png");
+    width: 190px;
+    height: 480px;
+    margin: 64px auto;
+    position: absolute;
+    top:5px;
+    left:425px
+  }
+
+  .halfeyesbwImg {
+    background-image: url("images/openeyesbw.png");
+    width: 480px;
+    height: 250px;
+    margin: 64px auto;
+    position: absolute;
+    top:25px;
+    left:550px
+  }
+
 
 
 .txt8-1{
