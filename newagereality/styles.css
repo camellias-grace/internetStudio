@@ -311,3 +311,21 @@
   top:500px;
   left:635px;
 }
+
+.txt24{
+  font-family: "Workbench", serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+
+    color: rgb(245, 245, 245);
+    font-size: 1.0rem;
+    text-align: left; 
+  
+  position:absolute;
+  top:250px;
+  left:50px;
+}
