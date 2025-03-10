@@ -26,6 +26,16 @@
     left:425px
   }
 
+  .halfmirrorImg {
+    background-image: url("images/mirror.png");
+    width: 380px;
+    height: 480px;
+    margin: 64px auto;
+    position: absolute;
+    top:5px;
+    left:425px
+  }
+
  
 
   a {
